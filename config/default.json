@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb://localhost:27017",
+    "mongoURI": "mongodb+srv://aayush:A%40yushg18@cluster-ag.a94luzg.mongodb.net/?retryWrites=true&w=majority",
     "jwtSecret": "mysecrettoken"
 }
